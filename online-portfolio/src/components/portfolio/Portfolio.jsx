@@ -19,8 +19,8 @@ function portfolio() {
           <div className="portfolio__item-cta">
             
           </div>
-            <a href="https://github.com" className='btn' target="_blank" rel='noopener noreferrer'>Github</a>
-            <a href="https://github.com" className='btn brn-primary' target="_blank" rel='noopener noreferrer'>Live Demo</a>
+            <a href="https://github.com/fdmarin" className='btn' target="_blank" rel='noopener noreferrer'>Github</a>
+            <a href="https://github.com/fdmarin" className='btn brn-primary' target="_blank" rel='noopener noreferrer'>Live Demo</a>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
@@ -28,8 +28,8 @@ function portfolio() {
           </div>
           <h3>Carousel</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target="_blank" rel='noopener noreferrer'>Github</a>
-            <a href="https://github.com" className='btn brn-primary' target="_blank" rel='noopener noreferrer'>Live Demo</a>
+            <a href="https://github.com/fdmarin" className='btn' target="_blank" rel='noopener noreferrer'>Github</a>
+            <a href="https://github.com/fdmarin" className='btn brn-primary' target="_blank" rel='noopener noreferrer'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -38,8 +38,8 @@ function portfolio() {
           </div>
           <h3>AVERT - Senior Capstone</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target="_blank" rel='noopener noreferrer'>Github</a>
-            <a href="https://github.com" className='btn brn-primary' target="_blank" rel='noopener noreferrer'>Live Demo</a>
+            <a href="https://github.com/Team-3-CS4311" className='btn' target="_blank" rel='noopener noreferrer'>Github</a>
+            <a href="https://github.com/Team-3-CS4311" className='btn brn-primary' target="_blank" rel='noopener noreferrer'>Live Demo</a>
           </div>
         </article>
       </div>
