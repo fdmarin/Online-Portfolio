@@ -34,7 +34,7 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam eos esse architecto quaerat exercitationem minus! Illum odit magni labore libero minima cumque exercitationem voluptatum voluptate fugit voluptas, eligendi sunt nulla?
+          Hello! My name is Federico Marin and I am recent graduate from The University of Texas at El Paso. I graduated with a major in Computer Science as well as a minor in mathematics. Post graduation I gained an interest in Front-End development, and have been working towards expanding my portfolio, combining both the skills I learned in college as well as using online resources.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
